@@ -12,7 +12,8 @@ I use
 * Runkeeper / Strava / Apple iHealth
 
 * 2024 09-14
-  * video created with GPX track info and could do an overlay
+  * [video 1](https://youtube.com/shorts/OCSosys9BvA?si=es2N8VkPmFnFy4P8)
+  * [video created](https://youtube.com/shorts/8hcf_3JK2Ao?si=mRJd9hqeFe96mDqU) with GPX track info and could do an overlay with speed and track
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/bfcbf583-d495-4a38-b68d-7486b54ad894">
 
 * 2024-09-15
