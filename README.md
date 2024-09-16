@@ -20,4 +20,5 @@ I use
 * 2024-09-15
   * did a [timelapse 360 video](https://youtu.be/G-HyjRn2dDI)
 * 2024-09-16
-  * tested [Google Street View Studio](https://streetviewstudio.maps.google.com/) - failed    
+  * tested [Google Street View Studio](https://streetviewstudio.maps.google.com/) - failed - looks like bad Gpx file
+  * test with better gpx file [Google Street View Studio](https://streetviewstudio.maps.google.com/?id=MTA2MTQ3MTk0ODAzNTg5Mjk2MzEwLzE3MjY0NzE0OTY4NzQvMDlmYzI3MzdlYjNhYzBjZmZkODdhNDQwM2E4ZGYzOGY)
