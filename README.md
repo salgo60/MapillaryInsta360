@@ -13,7 +13,9 @@ I use
 
 * 2024 09-14
   * video created with GPX track info and could do an overlay
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/bfcbf583-d495-4a38-b68d-7486b54ad894">
+
 * 2024-09-15
-  * did a
+  * did a [timelapse 360 video](https://youtu.be/G-HyjRn2dDI)
 * 2024-09-16
   * tested Google Map uploader - failed    
