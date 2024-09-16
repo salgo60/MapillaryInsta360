@@ -8,8 +8,8 @@ Trying to use Mapillary with Insta360 x4
 ## Issues
 I use 
 * Insta360 x4
-* Apple iwtach
-* Runkeeper
+* Apple iwatch
+* Runkeeper / Strava / Apple iHealth
 
 * 2024 09-14
   * video created with GPX track info and could do an overlay
@@ -18,4 +18,4 @@ I use
 * 2024-09-15
   * did a [timelapse 360 video](https://youtu.be/G-HyjRn2dDI)
 * 2024-09-16
-  * tested Google Map uploader - failed    
+  * tested [Google Street View Studio](https://streetviewstudio.maps.google.com/) - failed    
