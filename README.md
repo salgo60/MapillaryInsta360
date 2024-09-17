@@ -4,6 +4,7 @@ Trying to use Mapillary with Insta360 x4
 * [Mapillary uploader](https://www.mapillary.com/desktop-uploader)
 * [Mapillary Community forum](https://forum.mapillary.com/)
 * [Mapillary Insta360 X3](https://help.mapillary.com/hc/en-us/articles/11951588568604-Insta360-X3)
+* [my You tube tests](https://www.youtube.com/playlist?list=PLNWUKRLAYDeQEKPJTXQJhq5UrO-f3_BWn)
 
 ## Issues
 I use 
