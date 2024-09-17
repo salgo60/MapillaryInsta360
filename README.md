@@ -23,3 +23,4 @@ I use
 * 2024-09-16 [Google Street View #7](https://github.com/salgo60/MapillaryInsta360/issues/7)
   * tested [Google Street View Studio](https://streetviewstudio.maps.google.com/) - failed - looks like bad Gpx file
   * test with better [gpx](https://github.com/salgo60/MapillaryInsta360/blob/main/data/Akalla%20jogg%2020240915.gpx) file [Google Street View Studio](https://streetviewstudio.maps.google.com/?id=MTA2MTQ3MTk0ODAzNTg5Mjk2MzEwLzE3MjY0NzE0OTY4NzQvMDlmYzI3MzdlYjNhYzBjZmZkODdhNDQwM2E4ZGYzOGY)
+  * [Uploaded a 360 to youtube](https://youtu.be/qY3N6bZqjgs) 
